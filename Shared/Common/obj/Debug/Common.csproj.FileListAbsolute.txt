@@ -1,0 +1,10 @@
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\bin\Debug\app.config
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\bin\Debug\Common.dll.config
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\bin\Debug\Common.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\bin\Debug\Common.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\bin\Debug\FileHandler.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\bin\Debug\FileHandler.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\obj\Debug\Common.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\obj\Debug\Common.pdb

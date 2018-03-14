@@ -1,0 +1,6 @@
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\bin\Debug\FileHandler.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\bin\Debug\FileHandler.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\obj\Debug\FileHandler.csprojResolveAssemblyReference.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\obj\Debug\FileHandler.csproj.CoreCompileInputs.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\obj\Debug\FileHandler.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\obj\Debug\FileHandler.pdb

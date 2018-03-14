@@ -1,0 +1,5 @@
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\bin\Release\FileHandler.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\bin\Release\FileHandler.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\obj\Release\FileHandler.csproj.CoreCompileInputs.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\obj\Release\FileHandler.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\FileHandler\obj\Release\FileHandler.pdb

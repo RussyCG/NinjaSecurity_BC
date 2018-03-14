@@ -1,0 +1,14 @@
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Release\app.config
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Release\Connection.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Release\Connection.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Release\EventManagement.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Release\Common.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Release\FileHandler.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Release\EventManagement.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Release\Common.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Release\Common.dll.config
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Release\FileHandler.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\obj\Release\Connection.csprojResolveAssemblyReference.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\obj\Release\Connection.csproj.CoreCompileInputs.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\obj\Release\Connection.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\obj\Release\Connection.pdb

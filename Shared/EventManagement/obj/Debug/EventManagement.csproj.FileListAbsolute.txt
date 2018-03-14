@@ -1,0 +1,12 @@
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\bin\Debug\app.config
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\bin\Debug\EventManagement.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\bin\Debug\Common.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\bin\Debug\FileHandler.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\bin\Debug\Common.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\bin\Debug\Common.dll.config
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\bin\Debug\FileHandler.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\obj\Debug\EventManagement.csproj.CoreCompileInputs.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\obj\Debug\EventManagement.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\EventManagement\obj\Debug\EventManagement.pdb

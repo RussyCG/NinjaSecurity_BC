@@ -1,0 +1,17 @@
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\obj\Debug\NinjaSecurity_Server.csproj.CoreCompileInputs.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\NinjaSecurity_Server.exe.config
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\NinjaSecurity_Server.exe
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\NinjaSecurity_Server.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\Connection.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\EventManagement.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\Common.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\FileHandler.dll
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\Connection.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\EventManagement.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\Common.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\Common.dll.config
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\FileHandler.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\obj\Debug\NinjaSecurity_Server.csprojResolveAssemblyReference.cache
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\obj\Debug\NinjaSecurity_Server.exe
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\obj\Debug\NinjaSecurity_Server.pdb
+C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\app.config
