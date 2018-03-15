@@ -10,7 +10,7 @@ namespace Connection
     public class Sender
     {
         private int PORT_NO;
-        private string SERVER_IP = "192.168.111.168";
+        private string SERVER_IP = "192.168.111.112";
 
         public Sender(int PortNum = 950)
         {
@@ -19,6 +19,7 @@ namespace Connection
 
         public void SendData(string textToSend)
         {
+            EventManagement.EventManager.ReportNewEvent("Test", EventManagement.EventTypes.DEBUG);
             TcpClient client = new TcpClient(SERVER_IP, PORT_NO);
             NetworkStream nwStream = client.GetStream();
             byte[] bytesToSend = ASCIIEncoding.ASCII.GetBytes(textToSend);

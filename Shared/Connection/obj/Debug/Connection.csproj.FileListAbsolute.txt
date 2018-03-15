@@ -11,4 +11,3 @@ C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Conn
 C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Debug\FileHandler.pdb
 C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\obj\Debug\Connection.dll
 C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\obj\Debug\Connection.pdb
-C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Connection\bin\Debug\app.config

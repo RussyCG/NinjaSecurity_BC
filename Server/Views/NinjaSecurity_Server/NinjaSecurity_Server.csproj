@@ -49,6 +49,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\Common\Common.csproj">
+      <Project>{93886e56-d797-42e5-a549-a99a0fcc83c3}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\..\Shared\Connection\Connection.csproj">
       <Project>{C2E06D2D-998C-486C-9F4C-0BDB6978AD85}</Project>
       <Name>Connection</Name>

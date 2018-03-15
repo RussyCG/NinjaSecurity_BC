@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Common;
 
 namespace NinjaSecurity_Server
 {
@@ -11,6 +12,8 @@ namespace NinjaSecurity_Server
     {
         static void Main(string[] args)
         {
+            Common.AppSettings.InitialiseSettings();
+
             new Listener().StartListening();            
         }
     }

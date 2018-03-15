@@ -18,6 +18,8 @@ namespace EventManagement
         /// <param name="eventType">Log Level of the event</param>
         public static void ReportNewEvent(string Message, EventTypes eventType)
         {
+            string directory = AppSettings.ERROR_LOG_PATH;
+
             // Release process to allow other process to continue to execute
             new Thread(new ThreadStart(() =>
             {
@@ -48,5 +50,7 @@ namespace EventManagement
             }))
             { Name = "EventReportingThread" }.Start();
         }
+
+        
     }
 }
