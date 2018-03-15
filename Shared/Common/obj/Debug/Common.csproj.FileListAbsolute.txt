@@ -8,3 +8,13 @@ C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Comm
 C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\obj\Debug\Common.dll
 C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Shared\Common\obj\Debug\Common.pdb
+C:\Repos\NinjaSecurity_BC\Shared\Common\bin\Debug\app.config
+C:\Repos\NinjaSecurity_BC\Shared\Common\bin\Debug\Common.dll.config
+C:\Repos\NinjaSecurity_BC\Shared\Common\bin\Debug\Common.dll
+C:\Repos\NinjaSecurity_BC\Shared\Common\bin\Debug\Common.pdb
+C:\Repos\NinjaSecurity_BC\Shared\Common\bin\Debug\FileHandler.dll
+C:\Repos\NinjaSecurity_BC\Shared\Common\bin\Debug\FileHandler.pdb
+C:\Repos\NinjaSecurity_BC\Shared\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Repos\NinjaSecurity_BC\Shared\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Repos\NinjaSecurity_BC\Shared\Common\obj\Debug\Common.dll
+C:\Repos\NinjaSecurity_BC\Shared\Common\obj\Debug\Common.pdb

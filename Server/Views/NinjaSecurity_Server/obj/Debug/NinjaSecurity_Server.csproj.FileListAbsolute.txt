@@ -15,3 +15,20 @@ C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\View
 C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\obj\Debug\NinjaSecurity_Server.exe
 C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\obj\Debug\NinjaSecurity_Server.pdb
 C:\Users\Russy\Storage\Documents\Belgium Campus\Venter\NinjaSecurity\Server\Views\NinjaSecurity_Server\bin\Debug\app.config
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\app.config
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\NinjaSecurity_Server.exe.config
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\NinjaSecurity_Server.exe
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\NinjaSecurity_Server.pdb
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\Connection.dll
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\EventManagement.dll
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\Common.dll
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\FileHandler.dll
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\Connection.pdb
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\EventManagement.pdb
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\Common.pdb
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\Common.dll.config
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\bin\Debug\FileHandler.pdb
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\obj\Debug\NinjaSecurity_Server.csprojResolveAssemblyReference.cache
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\obj\Debug\NinjaSecurity_Server.csproj.CoreCompileInputs.cache
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\obj\Debug\NinjaSecurity_Server.exe
+C:\Repos\NinjaSecurity_BC\Server\Views\NinjaSecurity_Server\obj\Debug\NinjaSecurity_Server.pdb
